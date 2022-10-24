@@ -68,7 +68,12 @@ Homework2
 * 使用案例圖：
 >![UML.png](UML.png "UML")
 * 使用案例說明：
-
+>![UML1.png](UML1.png "UML1")
+>![UML2.png](UML2.png "UML2")
+>![UML3.png](UML3.png "UML3")
+---
+### Figma劃出第一個使用案例的動態模擬畫面
+<https://www.figma.com/proto/q5NwxJRBsfLTIXxtkkRD9f/%E5%AE%A2%E8%B2%A8%E5%85%B1%E8%BC%89app-%E7%99%BB%E5%85%A5%E4%BB%8B%E9%9D%A2?node-id=103%3A25&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A25&show-proto-sidebar=1>
 ---
 Homework3
 ---
