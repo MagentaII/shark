@@ -86,5 +86,5 @@ Homework3
 Homework4
 ---
 ### Class Diagram
->![Class_Diagram.png](Class_Diagram.png "Class_Diagram")
+>![ClassDiagram.png](ClassDiagram.png "ClassDiagram")
 ---
