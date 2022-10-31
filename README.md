@@ -82,3 +82,8 @@ Homework3
 ---
 ### DFD Level 0
 >![DFD.png](DFD.png "DFD")
+---
+Homework4
+---
+### Class Diagram
+>![Class Diagram.png](Class Diagram.png "Class_Diagram")
